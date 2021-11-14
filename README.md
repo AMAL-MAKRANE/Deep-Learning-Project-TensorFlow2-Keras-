@@ -1,5 +1,5 @@
 # Deep-Learning-Project-TensorFlow2-Keras-
-Approach for Predicting  LendingClub (bank) Credit Refunds
+Approach for Predicting  LendingClub (bank) Credit Refunds with ANN modele (Artificial neural network).
 
 Les données:
 
