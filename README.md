@@ -14,3 +14,28 @@ Compte tenu des données historiques sur les prêts accordés avec des informati
 La colonne "loan_status" contient notre étiquette ou label.
 
 => le fichier python contient des etapes de realisation aussi que les resultat et l'explication de chaque étape/requette.
+=>  table of contents  <=
+
+-Les données
+
+-Code pour démarrer
+
+-Chargement des données et autres importations
+
+--Section 1 : Analyse Exploratoire des Données (EDA)
+
+--Section 2 : Pré-traitement des Données
+
+Données manquantes
+
+Revoir le DataFrame pour voir quelles sont les colonnes de features pour lesquelles il manque encore des données.
+
+Variables catégorielles et Variables Dummies
+
+Répartition Entraînement / Test
+
+Normalisation des données
+
+Création du Modèle
+
+--Section 3 : Évaluation de la performance du modèle
